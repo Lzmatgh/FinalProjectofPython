@@ -1,0 +1,915 @@
+[
+    "Would you like to sort by rating or price?",
+    [
+        "Do you like Sunny, 2.1\u00b0C - 12.8\u00b0C or Patchy rain possible, 5.9\u00b0C - 13.1\u00b0C?",
+        [
+            [
+                "I suggest you go today, this is the 5 restaurants sorted by rating:",
+                [
+                    {
+                        "id": "LfurDi0oX869xItYAPWc2w",
+                        "alias": "finger-licken-detroit",
+                        "name": "Finger Licken",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k-NlKNKjaz61Oxku0E7ImA/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/finger-licken-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 4,
+                        "categories": [
+                            {
+                                "alias": "soulfood",
+                                "title": "Soul Food"
+                            }
+                        ],
+                        "rating": 5.0,
+                        "coordinates": {
+                            "latitude": 42.42993148979846,
+                            "longitude": -83.14165778880806
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "location": {
+                            "address1": "18925 Livernois",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48221",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "18925 Livernois",
+                                "Detroit, MI 48221"
+                            ]
+                        },
+                        "phone": "",
+                        "display_phone": "",
+                        "distance": 8583.677823832662
+                    },
+                    {
+                        "id": "k8ZwQVBv7xpsDGgODG0BhQ",
+                        "alias": "barda-detroit-detroit",
+                        "name": "BARDA Detroit",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oNlYU9eVBkuK9G2WGrQHvg/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/barda-detroit-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 69,
+                        "categories": [
+                            {
+                                "alias": "bars",
+                                "title": "Bars"
+                            },
+                            {
+                                "alias": "argentine",
+                                "title": "Argentine"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.3485,
+                            "longitude": -83.08786
+                        },
+                        "transactions": [],
+                        "price": "$$$",
+                        "location": {
+                            "address1": "4842 Grand River Ave",
+                            "address2": null,
+                            "address3": "",
+                            "city": "Detroit",
+                            "zip_code": "48208",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "4842 Grand River Ave",
+                                "Detroit, MI 48208"
+                            ]
+                        },
+                        "phone": "+13139525182",
+                        "display_phone": "(313) 952-5182",
+                        "distance": 1564.521595431958
+                    },
+                    {
+                        "id": "LXY2-zJxovRaiWixlLmRWg",
+                        "alias": "frita-batidos-detroit",
+                        "name": "Frita Batidos",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Skh1UnlZRZtNBlydLUO3dw/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/frita-batidos-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 87,
+                        "categories": [
+                            {
+                                "alias": "burgers",
+                                "title": "Burgers"
+                            },
+                            {
+                                "alias": "cuban",
+                                "title": "Cuban"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.3379,
+                            "longitude": -83.05314
+                        },
+                        "transactions": [
+                            "delivery"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "66 W Columbia St",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48201",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "66 W Columbia St",
+                                "Detroit, MI 48201"
+                            ]
+                        },
+                        "phone": "+13137254100",
+                        "display_phone": "(313) 725-4100",
+                        "distance": 4140.502694543005
+                    },
+                    {
+                        "id": "fmcHbCeBsXEEdY4btGBcPg",
+                        "alias": "yum-village-detroit",
+                        "name": "Yum Village",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9FXA3fH6rhospSFajtWUFw/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/yum-village-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 144,
+                        "categories": [
+                            {
+                                "alias": "caribbean",
+                                "title": "Caribbean"
+                            },
+                            {
+                                "alias": "african",
+                                "title": "African"
+                            },
+                            {
+                                "alias": "personalchefs",
+                                "title": "Personal Chefs"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.369378,
+                            "longitude": -83.072277
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "6500 Woodward Ave",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48202",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "6500 Woodward Ave",
+                                "Detroit, MI 48202"
+                            ]
+                        },
+                        "phone": "+13133346099",
+                        "display_phone": "(313) 334-6099",
+                        "distance": 1719.9255036267928
+                    },
+                    {
+                        "id": "JU83fjqfc-8OF_60mvgVvA",
+                        "alias": "babo-detroit-detroit",
+                        "name": "Babo Detroit",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AXBsVzMcfCVxsnQqCkMASg/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/babo-detroit-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 153,
+                        "categories": [
+                            {
+                                "alias": "newamerican",
+                                "title": "American (New)"
+                            },
+                            {
+                                "alias": "breakfast_brunch",
+                                "title": "Breakfast & Brunch"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.360556249668,
+                            "longitude": -83.0664664036942
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "15 E Kirby St",
+                            "address2": "Ste 115",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48202",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "15 E Kirby St",
+                                "Ste 115",
+                                "Detroit, MI 48202"
+                            ]
+                        },
+                        "phone": "+13139746159",
+                        "display_phone": "(313) 974-6159",
+                        "distance": 2024.14220427222
+                    }
+                ]
+            ],
+            null,
+            null
+        ],
+        [
+            [
+                "I suggest  you go tomorrow, this is the 5 restaurants sorted by rating:",
+                [
+                    {
+                        "id": "LfurDi0oX869xItYAPWc2w",
+                        "alias": "finger-licken-detroit",
+                        "name": "Finger Licken",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k-NlKNKjaz61Oxku0E7ImA/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/finger-licken-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 4,
+                        "categories": [
+                            {
+                                "alias": "soulfood",
+                                "title": "Soul Food"
+                            }
+                        ],
+                        "rating": 5.0,
+                        "coordinates": {
+                            "latitude": 42.42993148979846,
+                            "longitude": -83.14165778880806
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "location": {
+                            "address1": "18925 Livernois",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48221",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "18925 Livernois",
+                                "Detroit, MI 48221"
+                            ]
+                        },
+                        "phone": "",
+                        "display_phone": "",
+                        "distance": 8583.677823832662
+                    },
+                    {
+                        "id": "k8ZwQVBv7xpsDGgODG0BhQ",
+                        "alias": "barda-detroit-detroit",
+                        "name": "BARDA Detroit",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oNlYU9eVBkuK9G2WGrQHvg/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/barda-detroit-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 69,
+                        "categories": [
+                            {
+                                "alias": "bars",
+                                "title": "Bars"
+                            },
+                            {
+                                "alias": "argentine",
+                                "title": "Argentine"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.3485,
+                            "longitude": -83.08786
+                        },
+                        "transactions": [],
+                        "price": "$$$",
+                        "location": {
+                            "address1": "4842 Grand River Ave",
+                            "address2": null,
+                            "address3": "",
+                            "city": "Detroit",
+                            "zip_code": "48208",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "4842 Grand River Ave",
+                                "Detroit, MI 48208"
+                            ]
+                        },
+                        "phone": "+13139525182",
+                        "display_phone": "(313) 952-5182",
+                        "distance": 1564.521595431958
+                    },
+                    {
+                        "id": "LXY2-zJxovRaiWixlLmRWg",
+                        "alias": "frita-batidos-detroit",
+                        "name": "Frita Batidos",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Skh1UnlZRZtNBlydLUO3dw/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/frita-batidos-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 87,
+                        "categories": [
+                            {
+                                "alias": "burgers",
+                                "title": "Burgers"
+                            },
+                            {
+                                "alias": "cuban",
+                                "title": "Cuban"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.3379,
+                            "longitude": -83.05314
+                        },
+                        "transactions": [
+                            "delivery"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "66 W Columbia St",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48201",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "66 W Columbia St",
+                                "Detroit, MI 48201"
+                            ]
+                        },
+                        "phone": "+13137254100",
+                        "display_phone": "(313) 725-4100",
+                        "distance": 4140.502694543005
+                    },
+                    {
+                        "id": "fmcHbCeBsXEEdY4btGBcPg",
+                        "alias": "yum-village-detroit",
+                        "name": "Yum Village",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9FXA3fH6rhospSFajtWUFw/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/yum-village-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 144,
+                        "categories": [
+                            {
+                                "alias": "caribbean",
+                                "title": "Caribbean"
+                            },
+                            {
+                                "alias": "african",
+                                "title": "African"
+                            },
+                            {
+                                "alias": "personalchefs",
+                                "title": "Personal Chefs"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.369378,
+                            "longitude": -83.072277
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "6500 Woodward Ave",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48202",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "6500 Woodward Ave",
+                                "Detroit, MI 48202"
+                            ]
+                        },
+                        "phone": "+13133346099",
+                        "display_phone": "(313) 334-6099",
+                        "distance": 1719.9255036267928
+                    },
+                    {
+                        "id": "JU83fjqfc-8OF_60mvgVvA",
+                        "alias": "babo-detroit-detroit",
+                        "name": "Babo Detroit",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AXBsVzMcfCVxsnQqCkMASg/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/babo-detroit-detroit?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 153,
+                        "categories": [
+                            {
+                                "alias": "newamerican",
+                                "title": "American (New)"
+                            },
+                            {
+                                "alias": "breakfast_brunch",
+                                "title": "Breakfast & Brunch"
+                            }
+                        ],
+                        "rating": 4.5,
+                        "coordinates": {
+                            "latitude": 42.360556249668,
+                            "longitude": -83.0664664036942
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "15 E Kirby St",
+                            "address2": "Ste 115",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48202",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "15 E Kirby St",
+                                "Ste 115",
+                                "Detroit, MI 48202"
+                            ]
+                        },
+                        "phone": "+13139746159",
+                        "display_phone": "(313) 974-6159",
+                        "distance": 2024.14220427222
+                    }
+                ]
+            ],
+            null,
+            null
+        ]
+    ],
+    [
+        "Do you like Sunny, 2.1\u00b0C - 12.8\u00b0C or Patchy rain possible, 5.9\u00b0C - 13.1\u00b0C?",
+        [
+            [
+                "I suggest you go today, this is the 5 restaurants sorted by price:",
+                [
+                    {
+                        "id": "rQ7WWW1F7KAA8w7b8vTXOA",
+                        "alias": "ollies-bargain-outlet-farmington",
+                        "name": "Ollie's Bargain Outlet",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aXX1WR5Cn6ox3vUIQW21uQ/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/ollies-bargain-outlet-farmington?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 17,
+                        "categories": [
+                            {
+                                "alias": "discountstore",
+                                "title": "Discount Store"
+                            },
+                            {
+                                "alias": "grocery",
+                                "title": "Grocery"
+                            },
+                            {
+                                "alias": "homeandgarden",
+                                "title": "Home & Garden"
+                            }
+                        ],
+                        "rating": 2.5,
+                        "coordinates": {
+                            "latitude": 42.454768,
+                            "longitude": -83.374219
+                        },
+                        "transactions": [],
+                        "price": "$",
+                        "location": {
+                            "address1": "22128 Farmington Rd",
+                            "address2": "",
+                            "address3": "",
+                            "city": "Farmington",
+                            "zip_code": "48336",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "22128 Farmington Rd",
+                                "Farmington, MI 48336"
+                            ]
+                        },
+                        "phone": "+12484267470",
+                        "display_phone": "(248) 426-7470",
+                        "distance": 25421.13371022099
+                    },
+                    {
+                        "id": "W_h64ZRplw7mE1j41ETBRA",
+                        "alias": "dos-locos-tacos-hamtramck",
+                        "name": "Dos Locos Tacos",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/publSoxGbvJX7c0vBOC6uA/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/dos-locos-tacos-hamtramck?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 60,
+                        "categories": [
+                            {
+                                "alias": "tacos",
+                                "title": "Tacos"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.3994975,
+                            "longitude": -83.0597934
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$",
+                        "location": {
+                            "address1": "10337 Joseph Campau Ave",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Hamtramck",
+                            "zip_code": "48212",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "10337 Joseph Campau Ave",
+                                "Hamtramck, MI 48212"
+                            ]
+                        },
+                        "phone": "+13138726838",
+                        "display_phone": "(313) 872-6838",
+                        "distance": 4850.040945878474
+                    },
+                    {
+                        "id": "QUPAXavtWd6LKnvsWV6ywQ",
+                        "alias": "detroit-shipping-company-detroit-2",
+                        "name": "Detroit Shipping Company",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c8ezQ0T7bINnKeObXCVENg/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/detroit-shipping-company-detroit-2?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 326,
+                        "categories": [
+                            {
+                                "alias": "beergardens",
+                                "title": "Beer Gardens"
+                            },
+                            {
+                                "alias": "food_court",
+                                "title": "Food Court"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.34401907742649,
+                            "longitude": -83.06146026886441
+                        },
+                        "transactions": [
+                            "delivery"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "474 Peterboro St",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48201",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "474 Peterboro St",
+                                "Detroit, MI 48201"
+                            ]
+                        },
+                        "phone": "+13134624973",
+                        "display_phone": "(313) 462-4973",
+                        "distance": 3172.8866672065283
+                    },
+                    {
+                        "id": "cVqtIOgBM7NPuK0IQGloaQ",
+                        "alias": "flowers-of-vietnam-detroit-2",
+                        "name": "Flowers of Vietnam",
+                        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S7ypLLXW9LVA7580Gsp2wQ/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/flowers-of-vietnam-detroit-2?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 229,
+                        "categories": [
+                            {
+                                "alias": "vietnamese",
+                                "title": "Vietnamese"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.32025,
+                            "longitude": -83.096543
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "4440 W Vernor Hwy",
+                            "address2": null,
+                            "address3": "",
+                            "city": "Detroit",
+                            "zip_code": "48209",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "4440 W Vernor Hwy",
+                                "Detroit, MI 48209"
+                            ]
+                        },
+                        "phone": "+13135542085",
+                        "display_phone": "(313) 554-2085",
+                        "distance": 4711.219899773416
+                    },
+                    {
+                        "id": "lRrC581hQiITmkllE3cJSQ",
+                        "alias": "moms-spaghetti-detroit-2",
+                        "name": "Mom's Spaghetti",
+                        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vy0gnVJN7PrK6iWUCzq_ig/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/moms-spaghetti-detroit-2?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 41,
+                        "categories": [
+                            {
+                                "alias": "italian",
+                                "title": "Italian"
+                            },
+                            {
+                                "alias": "sandwiches",
+                                "title": "Sandwiches"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.338277309952325,
+                            "longitude": -83.0521464133298
+                        },
+                        "transactions": [],
+                        "price": "$$",
+                        "location": {
+                            "address1": "2131 Woodward Ave",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48201",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "2131 Woodward Ave",
+                                "Detroit, MI 48201"
+                            ]
+                        },
+                        "phone": "+13138888388",
+                        "display_phone": "(313) 888-8388",
+                        "distance": 4169.67579776477
+                    }
+                ]
+            ],
+            null,
+            null
+        ],
+        [
+            [
+                "I suggest you go tomorrow, this is the 5 restaurants sorted by price:",
+                [
+                    {
+                        "id": "rQ7WWW1F7KAA8w7b8vTXOA",
+                        "alias": "ollies-bargain-outlet-farmington",
+                        "name": "Ollie's Bargain Outlet",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aXX1WR5Cn6ox3vUIQW21uQ/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/ollies-bargain-outlet-farmington?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 17,
+                        "categories": [
+                            {
+                                "alias": "discountstore",
+                                "title": "Discount Store"
+                            },
+                            {
+                                "alias": "grocery",
+                                "title": "Grocery"
+                            },
+                            {
+                                "alias": "homeandgarden",
+                                "title": "Home & Garden"
+                            }
+                        ],
+                        "rating": 2.5,
+                        "coordinates": {
+                            "latitude": 42.454768,
+                            "longitude": -83.374219
+                        },
+                        "transactions": [],
+                        "price": "$",
+                        "location": {
+                            "address1": "22128 Farmington Rd",
+                            "address2": "",
+                            "address3": "",
+                            "city": "Farmington",
+                            "zip_code": "48336",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "22128 Farmington Rd",
+                                "Farmington, MI 48336"
+                            ]
+                        },
+                        "phone": "+12484267470",
+                        "display_phone": "(248) 426-7470",
+                        "distance": 25421.13371022099
+                    },
+                    {
+                        "id": "W_h64ZRplw7mE1j41ETBRA",
+                        "alias": "dos-locos-tacos-hamtramck",
+                        "name": "Dos Locos Tacos",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/publSoxGbvJX7c0vBOC6uA/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/dos-locos-tacos-hamtramck?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 60,
+                        "categories": [
+                            {
+                                "alias": "tacos",
+                                "title": "Tacos"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.3994975,
+                            "longitude": -83.0597934
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$",
+                        "location": {
+                            "address1": "10337 Joseph Campau Ave",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Hamtramck",
+                            "zip_code": "48212",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "10337 Joseph Campau Ave",
+                                "Hamtramck, MI 48212"
+                            ]
+                        },
+                        "phone": "+13138726838",
+                        "display_phone": "(313) 872-6838",
+                        "distance": 4850.040945878474
+                    },
+                    {
+                        "id": "QUPAXavtWd6LKnvsWV6ywQ",
+                        "alias": "detroit-shipping-company-detroit-2",
+                        "name": "Detroit Shipping Company",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c8ezQ0T7bINnKeObXCVENg/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/detroit-shipping-company-detroit-2?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 326,
+                        "categories": [
+                            {
+                                "alias": "beergardens",
+                                "title": "Beer Gardens"
+                            },
+                            {
+                                "alias": "food_court",
+                                "title": "Food Court"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.34401907742649,
+                            "longitude": -83.06146026886441
+                        },
+                        "transactions": [
+                            "delivery"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "474 Peterboro St",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48201",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "474 Peterboro St",
+                                "Detroit, MI 48201"
+                            ]
+                        },
+                        "phone": "+13134624973",
+                        "display_phone": "(313) 462-4973",
+                        "distance": 3172.8866672065283
+                    },
+                    {
+                        "id": "cVqtIOgBM7NPuK0IQGloaQ",
+                        "alias": "flowers-of-vietnam-detroit-2",
+                        "name": "Flowers of Vietnam",
+                        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S7ypLLXW9LVA7580Gsp2wQ/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/flowers-of-vietnam-detroit-2?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 229,
+                        "categories": [
+                            {
+                                "alias": "vietnamese",
+                                "title": "Vietnamese"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.32025,
+                            "longitude": -83.096543
+                        },
+                        "transactions": [
+                            "delivery",
+                            "pickup"
+                        ],
+                        "price": "$$",
+                        "location": {
+                            "address1": "4440 W Vernor Hwy",
+                            "address2": null,
+                            "address3": "",
+                            "city": "Detroit",
+                            "zip_code": "48209",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "4440 W Vernor Hwy",
+                                "Detroit, MI 48209"
+                            ]
+                        },
+                        "phone": "+13135542085",
+                        "display_phone": "(313) 554-2085",
+                        "distance": 4711.219899773416
+                    },
+                    {
+                        "id": "lRrC581hQiITmkllE3cJSQ",
+                        "alias": "moms-spaghetti-detroit-2",
+                        "name": "Mom's Spaghetti",
+                        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vy0gnVJN7PrK6iWUCzq_ig/o.jpg",
+                        "is_closed": false,
+                        "url": "https://www.yelp.com/biz/moms-spaghetti-detroit-2?adjust_creative=3aYNEWdWOiNz7OeFql8k6g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=3aYNEWdWOiNz7OeFql8k6g",
+                        "review_count": 41,
+                        "categories": [
+                            {
+                                "alias": "italian",
+                                "title": "Italian"
+                            },
+                            {
+                                "alias": "sandwiches",
+                                "title": "Sandwiches"
+                            }
+                        ],
+                        "rating": 4.0,
+                        "coordinates": {
+                            "latitude": 42.338277309952325,
+                            "longitude": -83.0521464133298
+                        },
+                        "transactions": [],
+                        "price": "$$",
+                        "location": {
+                            "address1": "2131 Woodward Ave",
+                            "address2": "",
+                            "address3": null,
+                            "city": "Detroit",
+                            "zip_code": "48201",
+                            "country": "US",
+                            "state": "MI",
+                            "display_address": [
+                                "2131 Woodward Ave",
+                                "Detroit, MI 48201"
+                            ]
+                        },
+                        "phone": "+13138888388",
+                        "display_phone": "(313) 888-8388",
+                        "distance": 4169.67579776477
+                    }
+                ]
+            ],
+            null,
+            null
+        ]
+    ]
+]
